@@ -1,0 +1,9 @@
+tkinter 
+PIL 
+numpy 
+pandas
+matplotlib
+statsmodels
+EntropyHub 
+scipy 
+concurrent
